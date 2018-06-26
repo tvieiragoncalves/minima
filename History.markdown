@@ -10,7 +10,7 @@
 
 ### Santi Anima 
 
-  * [Blog de escrita criatva](http://santi-anima.blogspot.com/)
+  * [Blog de escrita criativa](http://santi-anima.blogspot.com/)
 
 
 
