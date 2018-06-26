@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    version="2.0">
+    <channel>
+        <title>Conversas com os meus sobrinhos</title>
+        <description>Conversas sobre tudo e sobre nada, sobre coisas pequenas e coisas grandes, sobre coisas escondidas e conhecidas. Estas conversas contam com a distinta participação da Marizé e do Rafa, sendo moderadas pelo muito paciente Tiago Gonçalves.
+</description>
+        <link>https://tvieiragoncalves.github.io/programa-sobrinhos/</link>
+        <copyright>Tiago Gonçalves 2015</copyright>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>pt</language>
+        <lastBuildDate>Tue, 26 Jul 2018 11:23:43 +0000</lastBuildDate>
+        <managingEditor>tvieiragoncalves@gmail.com</managingEditor>
+        <pubDate>Tue, 26 Jul 2018 11:02:42 +0000</pubDate>
+        <generator>FeedForAll v2.0 (2.0.4.0) unlicensed version http://www.feedforall.com</generator>
+        <itunes:subtitle>Rafa e Marizé</itunes:subtitle>
+        <itunes:summary>Conversas sobre tudo e sobre nada, sobre coisas pequenas e coisas grandes, sobre coisas escondidas e conhecidas. Estas conversas contam com a distinta participação da Marizé e do Rafa, sendo moderadas pelo muito paciente Tiago Gonçalves.</itunes:summary>
+        <itunes:author>Tiago Gonçalves</itunes:author>
+        <itunes:owner>
+            <itunes:name>Tiago Gonçalves</itunes:name>
+            <itunes:email>tvieiragoncalves@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Personal Journals"/>
+        </itunes:category>
+        <itunes:keywords>Portugal, humor , comédia, infantil, programa de autor, sotrytelling, pessoal, conversas com os meus sobrinhos</itunes:keywords>
+        <itunes:image href="https://raw.githubusercontent.com/tvieiragoncalves/programa-sobrinhos/master/image/conversas_pod.jpeg"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+
+<item>
+            <title>Primeira Conversa - Rafa e o Homem Aranha</title>
+            <description>Sabem o que as crianças pensam sobre o conflito israelo-árabe ? Eu perguntei ao meu sobrinho [#introduzirclickbait](não vais acreditar na resposta inesperada e que me deixou completamente de boca aberta sem saber o que fazer.) </description>
+            <link>https://dl.dropboxusercontent.com/u/21441931/Podcast/podcasterasmus.mp3</link>
+            <enclosure url="https://raw.githubusercontent.com/tvieiragoncalves/programa-sobrinhos/master/audio/podrafa.mp3" length="02833833" type="audio/mpeg"/>
+            <guid isPermaLink="https://raw.githubusercontent.com/tvieiragoncalves/programa-sobrinhos/master/audio/podrafa.mp3"></guid>
+            <pubDate>Tue, 26 Jul 2018 12:03:42 +0000</pubDate>
+            <itunes:subtitle>Sabem o que as crianças pensam sobre o conflito israelo-árabe ? Eu perguntei ao meu sobrinho [#introduzirclickbait](não vais acreditar na resposta inesperada e que me deixou completamente de boca aberta sem saber o que fazer.) </itunes:subtitle>
+            <itunes:summary>Sabem o que as crianças pensam sobre o conflito israelo-árabe ? Eu perguntei ao meu sobrinho [#introduzirclickbait](não vais acreditar na resposta inesperada e que me deixou completamente de boca aberta sem saber o que fazer.) 
+</itunes:summary>
+            <itunes:duration>2:19</itunes:duration>
+            <itunes:author>Tiago Gonçalves</itunes:author>
+            <itunes:keywords>Rafa, Conversas, com, os, meus,sobrinhos</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+    </channel>
+</rss>
