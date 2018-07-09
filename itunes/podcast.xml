@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss 
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
     version="2.0">
@@ -28,7 +28,23 @@
         <itunes:image href="https://raw.githubusercontent.com/tvieiragoncalves/programa-sobrinhos/master/conversas_pod.jpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:block>no</itunes:block>
-
+<item>
+            <title>Segunda Conversa - A Marizé e a Frozen</title>
+            <description>Nesta animada conversa conhecemos a marizé o seu gosto por autocarros velhos e pela frozen. Temos também direito a falar sobre o astro rei, não percam.
+ </description>
+            <link>https://raw.githubusercontent.com/tvieiragoncalves/programa-sobrinhos/master/audio/podcastmarize.mp3</link>
+            <enclosure url="https://raw.githubusercontent.com/tvieiragoncalves/programa-sobrinhos/master/audio/podcastmarize.mp3" length="02644964" type="audio/mpeg"/>
+            <guid isPermaLink="https://raw.githubusercontent.com/tvieiragoncalves/programa-sobrinhos/master/audio/podcastmarize.mp3"></guid>
+            <pubDate>Tue, 29 Jul 2018 12:03:42 +0000</pubDate>
+            <itunes:subtitle>Nesta animada conversa conhecemos a marizé o seu gosto por autocarros velhos e pela frozen. Temos também direito a falar sobre o astro rei, não percam. </itunes:subtitle>
+            <itunes:summary>Nesta animada conversa conhecemos a marizé o seu gosto por autocarros velhos e pela frozen. Temos também direito a falar sobre o astro rei, não percam.
+</itunes:summary>
+            <itunes:duration>2:22</itunes:duration>
+            <itunes:author>Tiago Gonçalves</itunes:author>
+            <itunes:keywords>Marize, Conversas, com, os, meus,sobrinhos</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
 <item>
             <title>Primeira Conversa - Rafa e o Homem Aranha</title>
             <description>Sabem o que as crianças pensam sobre o conflito israelo-árabe ? Eu perguntei ao meu sobrinho [#introduzirclickbait](não vais acreditar na resposta inesperada e que me deixou completamente de boca aberta sem saber o que fazer.) </description>
