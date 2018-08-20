@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss 
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+<rss
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     version="2.0">
     <channel>
         <title>Conversas com os meus sobrinhos</title>
@@ -28,6 +28,23 @@
         <itunes:image href="https://raw.githubusercontent.com/tvieiragoncalves/programa-sobrinhos/master/conversas_pod.jpeg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:block>no</itunes:block>
+        <item>
+      <title>Sétima conversa - O Rafa e a escola</title>
+      <description>Neste episódio o nosso amigo Rafa fala sobre o que faz na escola e sobre os seus distintos amigos.
+</description>
+      <link>https://raw.githubusercontent.com/tvieiragoncalves/programa-sobrinhos/master/audio/rafaescola.mp3</link>
+      <enclosure url="https://raw.githubusercontent.com/tvieiragoncalves/programa-sobrinhos/master/audio/rafaescola.mp3" length="04384219" type="audio/mpeg"/>
+      <guid isPermaLink="https://raw.githubusercontent.com/tvieiragoncalves/programa-sobrinhos/master/audio/rafaescola.mp3"></guid>
+      <pubDate>Mon, 20 Aug 2018 12:03:42 +0000</pubDate>
+      <itunes:subtitle>Neste episódio o nosso amigo Rafa fala sobre o que faz na escola e sobre os seus distintos amigos.</itunes:subtitle>
+      <itunes:summary>Neste episódio o nosso amigo Rafa fala sobre o que faz na escola e sobre os seus distintos amigos.
+</itunes:summary>
+      <itunes:duration>3:33</itunes:duration>
+      <itunes:author>Tiago Gonçalves</itunes:author>
+      <itunes:keywords>Marize, Rafa, Conversas, com, os, meus,sobrinhos</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>no</itunes:block>
+  </item>
         <item>
             <title>Sexta conversa - Os dentes e as brincadeiras favoritas</title>
             <description>
@@ -124,7 +141,7 @@ Neste magnífico episódio a Marizé a Clarinha desvendam as diferenças que exi
             <guid isPermaLink="https://raw.githubusercontent.com/tvieiragoncalves/programa-sobrinhos/master/audio/podrafa.mp3"></guid>
             <pubDate>Tue, 26 Jul 2018 12:03:42 +0000</pubDate>
             <itunes:subtitle>Sabem o que as crianças pensam sobre o conflito israelo-árabe ? Eu perguntei ao meu sobrinho [#introduzirclickbait](não vais acreditar na resposta inesperada e que me deixou completamente de boca aberta sem saber o que fazer.) </itunes:subtitle>
-            <itunes:summary>Sabem o que as crianças pensam sobre o conflito israelo-árabe ? Eu perguntei ao meu sobrinho [#introduzirclickbait](não vais acreditar na resposta inesperada e que me deixou completamente de boca aberta sem saber o que fazer.) 
+            <itunes:summary>Sabem o que as crianças pensam sobre o conflito israelo-árabe ? Eu perguntei ao meu sobrinho [#introduzirclickbait](não vais acreditar na resposta inesperada e que me deixou completamente de boca aberta sem saber o que fazer.)
 </itunes:summary>
             <itunes:duration>2:19</itunes:duration>
             <itunes:author>Tiago Gonçalves</itunes:author>
