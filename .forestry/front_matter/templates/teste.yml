@@ -1,0 +1,9 @@
+---
+label: teste
+hide_body: false
+is_partial: false
+fields:
+- type: include
+  label: Teste
+  name: teste
+  hidden: false
