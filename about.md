@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Sobre
-permalink: /about/
+permalink: "/about/"
+
 ---
+##### **_Conversas sobre tudo e sobre nada, sobre coisas pequenas e coisas grandes, sobre coisas escondidas e conhecidas._**
 
-
-Conversas sobre tudo e sobre nada, sobre coisas pequenas e coisas grandes, sobre coisas escondidas e conhecidas.
-
-Estas conversas contam com a distinta participação da Marizé e do Rafa, sendo moderadas pelo muito paciente Tiago Gonçalves.
+##### **_Estas conversas contam com a distinta participação da Marizé e do Rafa, sendo moderadas pelo muito paciente Tiago Gonçalves._**
