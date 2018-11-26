@@ -8,3 +8,5 @@ fields:
   label: Escreva uma mensagem
   config:
     required: true
+pages:
+- History.markdown
