@@ -1,0 +1,10 @@
+---
+label: mensagem
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  name: escreva_uma_mensagem
+  label: Escreva uma mensagem
+  config:
+    required: true
